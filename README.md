@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derekvance21
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning Clojure/Script, Datalog, and Svelte
+- 🌱 I’m currently learning Clojure/Script, Go, and Svelte
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 
 
